@@ -388,7 +388,7 @@ nav {
   transform: translateY(-50%);
   width: 21px;
   height: 20px;
-  background: url("../../icons/check_blue.png") center center/cover no-repeat;
+  background: url("../icons/check_blue.png") center center/cover no-repeat;
 }
 .require_descr {
   margin-top: 25px;
@@ -401,14 +401,14 @@ nav {
   color: #FF5656;
 }
 .require .warning .require_list li:before {
-  background: url("../../icons/check_red.png") center center/cover no-repeat;
+  background: url("../icons/check_red.png") center center/cover no-repeat;
 }
 
 .world {
   position: relative;
   min-height: 717px;
   padding: 49px 0;
-  background: url("../../img/all-world.png") center center/cover no-repeat;
+  background: url("../img/all-world.png") center center/cover no-repeat;
 }
 .world_link {
   position: absolute;
