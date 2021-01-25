@@ -8,12 +8,12 @@ a {
 
 header {
   position: relative;
-  background: #db0e0e;
+  background: #212121;
   height: 50px;
 }
 
 nav {
-  background: #db0e0e;
+  background: #212121;
   position: fixed;
   width: 100%;
   z-index: 100;
